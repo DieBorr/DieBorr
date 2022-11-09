@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<--
-¯\_(ツ)_/¯
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieBorr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieBorr&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieBorr&show_icons=tBorrrue&theme=transparent&count_private=true)
